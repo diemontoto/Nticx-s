@@ -1,3 +1,3 @@
 # Nticx-s
 
-https://github.com/diemontoto/Nticx-s
+https://diemontoto.github.io/Nticx-s/
